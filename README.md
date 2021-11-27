@@ -1,7 +1,5 @@
 ![mafiabanner](https://user-images.githubusercontent.com/43271780/114378884-6f4b5e80-9b88-11eb-9414-d3d708a31526.png)
 
- **I'm gonna make him a script he can't refuse**. 
-
  **Front**
  <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
