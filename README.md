@@ -6,6 +6,15 @@ For obvious reasons I can't share my professional work here but here are a few <
 
 <table>
  
+ <tr>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/152165564-d129240d-e3d1-4643-beb5-f854699bf88c.png" width="700" height="180"></td>
+    <td valign="top">
+     <h3>Talkr</h3>
+     <p>Tiniest i18n library for React on the market (less than 1kb). Supports Typescript, live autocompletion, complex plural rules, deeply nested keys.</p>
+      <a href="https://github.com/DoneDeal0/Talkr">Repo</a>
+     </td>
+  </tr>
+ 
    <tr>
     <td  valign="top"><img src="https://user-images.githubusercontent.com/43271780/152162770-a0fc1912-1a7b-4b49-821f-08f600344683.png" width="700" height="200"></td>
     <td valign="top">
@@ -21,15 +30,6 @@ For obvious reasons I can't share my professional work here but here are a few <
      <h3>Santa's Letters</h3>
      <p>Video game. Santa's has lost toddlers' letters and must retrieve them. But beware of angry kids' letters. Javascript & Typescript.</p>
      <a href="https://github.com/DoneDeal0/Santa-Letters">Repo</a>
-     </td>
-  </tr>
- 
-<tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/152165564-d129240d-e3d1-4643-beb5-f854699bf88c.png" width="700" height="180"></td>
-    <td valign="top">
-     <h3>Talkr</h3>
-     <p>Tiniest i18n library for React on the market (less than 1kb). Supports Typescript, live autocompletion, complex plural rules, deeply nested keys.</p>
-      <a href="https://github.com/DoneDeal0/Talkr">Repo</a>
      </td>
   </tr>
  
