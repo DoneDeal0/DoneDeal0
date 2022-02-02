@@ -2,7 +2,7 @@ Hi,
 
 I'm <b>DoneDeal0</b>, frontend engineer based in Paris. I use <b>Javascript</b>, <b>Typescript</b> & <b>React</b> on a daily basis. I also get by with <b>Node</b>, <b>React Native</b>, <b>MongoDB</b> and <b>Rust</b>. 
 
-For obvious reasons I can't share my professional work here but are are a few <b>side projects</b> I've done. Just open an issue or a discussion in one of my repo to contact me.
+For obvious reasons I can't share my professional work here but here are a few <b>side projects</b> I've done. Just open an issue or a discussion in one of my repo to contact me.
 
 <table>
  
