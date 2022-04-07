@@ -15,6 +15,15 @@ For obvious reasons I can't share my professional work here but here are a few <
      </td>
   </tr>
  
+  <tr>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/159786562-6906987f-6ded-4a8b-a9bc-205f2ea93601.png" width="700" height="180"></td>
+    <td valign="top">
+     <h3>Search app for deceased persons</h3>
+     <p>This app allows you to search for people who died in France since 1970. Interactive map with data clusters.</p>
+      <a href="https://github.com/DoneDeal0/morts-autour-de-vous">Repo</a>
+     </td>
+  </tr>
+ 
    <tr>
     <td  valign="top"><img src="https://user-images.githubusercontent.com/43271780/152162770-a0fc1912-1a7b-4b49-821f-08f600344683.png" width="700" height="200"></td>
     <td valign="top">
