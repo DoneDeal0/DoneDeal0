@@ -20,7 +20,7 @@ For obvious reasons I can't share my professional work here but here are a few <
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/177056582-b7b7b6b1-d3a5-4a2d-b5dc-5e2b6ade1d5c.png" width="700" height="180"></td>
     <td valign="top">
      <h3>Paris Stars Map</h3>
-     <p>Mobile app to discover historical figures of Paris lived. React Native.</p>
+     <p>Mobile app to discover where historical figures of Paris used to live. React Native.</p>
       <a href="https://www.paris-stars-map.fr">Website</a>
      <p><a href="https://play.google.com/store/apps/details?id=com.parisstarsmap.parisstarsmapapp">Play Store</a></p>
      </td>
