@@ -47,26 +47,21 @@ Jest-SWC, Storybook, SWC, Typescript, Webpack 5.</p>
   </tr>
  
  
+ <tr>
+    <td  valign="top"><img src="https://user-images.githubusercontent.com/43271780/177119902-4bb71219-ab43-42a9-af2d-41f61dcdac24.jpeg" width="500" height="180"></td>
+    <td valign="top">
+     <h3>Deep Vault</h3>
+     <p>Library to store data in the browser with AES encryption.</p>
+     <a href="https://github.com/DoneDeal0/DeepVault">Code</a>
+     </td>
+  </tr>
+ 
 <tr>
     <td  valign="top"><img src="https://user-images.githubusercontent.com/43271780/152168535-d3f5798e-b18c-426e-b383-6b1c806bfb60.png" width="500" height="180"></td>
     <td valign="top">
      <h3>Santa's Letters</h3>
      <p>Video game. Santa's has lost toddlers' letters and must retrieve them. But beware of angry kids' letters. Javascript & Typescript.</p>
      <a href="https://github.com/DoneDeal0/Santa-Letters">Code</a>
-     </td>
-  </tr>
- 
- 
-   <tr>
-    <td>
-      <p align="center" valign="center">
-      <img src="https://user-images.githubusercontent.com/43271780/152172134-b27a169f-86a3-42cb-a845-fc0e4975e567.png" width="200" height="180">
-        </p>
-   </td>
-    <td valign="top">
-     <h3>Deep Vault</h3>
-     <p>Library to store data in the browser with AES encryption.</p>
-       <a href="https://github.com/DoneDeal0/DeepVault">Repo</a>
      </td>
   </tr>
     <tr>
