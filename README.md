@@ -9,16 +9,16 @@ For obvious reasons I can't share my professional work here but here are a few <
    <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/209532864-24d7449e-1185-4810-9423-be5df1fe877f.png" width="700" height="180"></td>
     <td valign="top">
-     <h3>Superdiff</h3>
+     <h3>Superdiff (39★)</h3>
      <p>Fastest object and array diff library on the javascript market. No dependencies, readable diff, supports deeply nested keys.</p>
-      <a href="https://github.com/DoneDeal0/superdiff">Code</a>
+     <p><a href="https://github.com/DoneDeal0/superdiff">Code</a></p>
      </td>
   </tr>
  
  <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/152165564-d129240d-e3d1-4643-beb5-f854699bf88c.png" width="700" height="180"></td>
     <td valign="top">
-     <h3>Talkr</h3>
+     <h3>Talkr (212★)</h3>
      <p>Tiniest i18n library for React on the market (less than 1kb). Supports Typescript, live autocompletion, complex plural rules, deeply nested keys.</p>
       <a href="https://github.com/DoneDeal0/Talkr">Code</a>
        <p><a href="https://talkr-documentation.netlify.app/docs/intro">Documentation</a></p>
@@ -59,9 +59,9 @@ Jest-SWC, Storybook, SWC, Typescript, Webpack 5.</p>
  <tr>
     <td  valign="top"><img src="https://user-images.githubusercontent.com/43271780/177119902-4bb71219-ab43-42a9-af2d-41f61dcdac24.jpeg" width="500" height="180"></td>
     <td valign="top">
-     <h3>Deep Vault</h3>
+     <h3>Deep Vault (3★)</h3>
      <p>Library to store data in the browser with AES encryption.</p>
-     <a href="https://github.com/DoneDeal0/DeepVault">Code</a>
+     <p><a href="https://github.com/DoneDeal0/DeepVault">Code</a></p>
      </td>
   </tr>
  
