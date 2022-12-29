@@ -48,7 +48,7 @@ For obvious reasons I can't share my professional work here but here are a few <
 <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/163389884-36c6288e-522a-40bd-aafb-0bfc20f3c955.png" width="700" height="180"></td>
     <td valign="top">
-     <h3>Alright React App</h3>
+     <h3>Alright React App (35★)</h3>
      <p>Professional React app generator. Shipped with an exposed, unopinionated, highly-performant config.
 Jest-SWC, Storybook, SWC, Typescript, Webpack 5.</p>
       <a href="https://github.com/DoneDeal0/alright-react-app">Code</a>
