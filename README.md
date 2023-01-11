@@ -9,7 +9,7 @@ For obvious reasons I can't share my professional work here but here are a few <
    <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/209532864-24d7449e-1185-4810-9423-be5df1fe877f.png" width="700" height="180"></td>
     <td valign="top">
-     <h3>Superdiff (320★)</h3>
+     <h3>Superdiff (329★)</h3>
      <p>Fastest object and array diff library on the javascript market. No dependencies, readable diff, supports deeply nested keys.</p>
      <p><a href="https://github.com/DoneDeal0/superdiff">Code</a></p>
      </td>
