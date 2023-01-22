@@ -9,7 +9,7 @@ For obvious reasons I can't share my professional work here but here are a few <
    <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/209532864-24d7449e-1185-4810-9423-be5df1fe877f.png" width="700" height="180"></td>
     <td valign="top">
-     <h3>Superdiff (360★)</h3>
+     <h3>Superdiff (363★)</h3>
      <p>Fastest object and array diff library on the javascript market. No dependencies, readable diff, supports deeply nested keys.</p>
      <p><a href="https://github.com/DoneDeal0/superdiff">Code</a></p>
      </td>
@@ -18,7 +18,7 @@ For obvious reasons I can't share my professional work here but here are a few <
  <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/152165564-d129240d-e3d1-4643-beb5-f854699bf88c.png" width="700" height="180"></td>
     <td valign="top">
-     <h3>Talkr (219★)</h3>
+     <h3>Talkr (220★)</h3>
      <p>Tiniest i18n library for React on the market (less than 1kb). Supports Typescript, live autocompletion, complex plural rules, deeply nested keys.</p>
       <a href="https://github.com/DoneDeal0/Talkr">Code</a>
        <p><a href="https://talkr-documentation.netlify.app/docs/intro">Documentation</a></p>
