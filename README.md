@@ -9,7 +9,7 @@ For obvious reasons I can't share my professional work here but here are a few <
    <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/209532864-24d7449e-1185-4810-9423-be5df1fe877f.png" width="700" height="180"></td>
     <td valign="top">
-     <h3>Superdiff (412★)</h3>
+     <h3>Superdiff (414★)</h3>
      <p>Fastest object and array diff library on the javascript market. No dependencies, readable diff, supports deeply nested keys.</p>
      <p><a href="https://github.com/DoneDeal0/superdiff">Code</a></p>
      </td>
@@ -46,9 +46,9 @@ For obvious reasons I can't share my professional work here but here are a few <
   </tr>
   
 <tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/43271780/163389884-36c6288e-522a-40bd-aafb-0bfc20f3c955.png" width="700" height="180"></td>
+    <td valign="top"><img width="461" height="180" alt="Screenshot 2023-04-19 at 15 52 27" src="https://user-images.githubusercontent.com/43271780/233097410-90ca4a37-f368-451d-9dd0-4b60a954c53e.png"></td>
     <td valign="top">
-     <h3>Alright React App (36★)</h3>
+     <h3>Alright React App (35★)</h3>
      <p>Professional React app generator. Shipped with an exposed, unopinionated, highly-performant config.
 Jest-SWC, Storybook, SWC, Typescript, Webpack 5.</p>
       <a href="https://github.com/DoneDeal0/alright-react-app">Code</a>
