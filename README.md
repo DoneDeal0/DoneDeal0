@@ -48,7 +48,7 @@ For obvious reasons I can't share my professional work here but here are a few <
 <tr>
     <td valign="top"><img width="461" height="180" alt="Screenshot 2023-04-19 at 15 52 27" src="https://user-images.githubusercontent.com/43271780/233097410-90ca4a37-f368-451d-9dd0-4b60a954c53e.png"></td>
     <td valign="top">
-     <h3>Alright React App (35★)</h3>
+     <h3>Alright React App (48★)</h3>
      <p>Professional React app generator. Comes with an exposed, unopinionated, high performance configuration. Jest, SWC, Storybook, Typescript 5, Webpack 5.</p>
       <a href="https://github.com/DoneDeal0/alright-react-app">Code</a>
      </td>
@@ -58,7 +58,7 @@ For obvious reasons I can't share my professional work here but here are a few <
  <tr>
     <td  valign="top"><img src="https://user-images.githubusercontent.com/43271780/177119902-4bb71219-ab43-42a9-af2d-41f61dcdac24.jpeg" width="500" height="180"></td>
     <td valign="top">
-     <h3>Deep Vault (3★)</h3>
+     <h3>Deep Vault (4★)</h3>
      <p>Library to store data in the browser with AES encryption.</p>
      <p><a href="https://github.com/DoneDeal0/DeepVault">Code</a></p>
      </td>
