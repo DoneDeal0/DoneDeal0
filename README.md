@@ -1,8 +1,6 @@
 Hi,
 
-I'm a frontend engineer at <b>Meltwater</b>, where I'm involved in the development of a social data analysis software. I use React and Typescript on a daily basis. I also have a good knowledge of Node.js and MongoDB, as well as Rust basics.
-
-Recently, I made it to the semifinals of the Tech Challenger Algorithm Competition, finishing in the top 10% out of over 3000 applicants.
+I'm a frontend engineer based in Paris. I use React and Typescript on a daily basis. I also have a good knowledge of Node.js and MongoDB, as well as Rust basics.
 
 I can't share my professional work here but here are a few <b>side projects</b> I've done.
 
