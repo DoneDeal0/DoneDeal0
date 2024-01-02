@@ -1,6 +1,6 @@
 Hi,
 
-I'm a frontend engineer based in Paris. I use React and Typescript on a daily basis. I also have a good knowledge of Node.js and MongoDB, as well as Rust basics.
+I'm a frontend engineer based in Paris. I use React and Typescript on a daily basis. I also have a good knowledge of Node.js as well as Rust basics.
 
 I can't share my professional work here but here are a few <b>side projects</b> I've done.
 
