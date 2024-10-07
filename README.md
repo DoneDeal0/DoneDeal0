@@ -15,7 +15,7 @@
 ![NPM Downloads](https://img.shields.io/npm/dy/%40donedeal0%2Fsuperdiff?logo=npm)
 ![GitHub Repo stars](https://img.shields.io/github/stars/DoneDeal0/superdiff)
 
-Fastest object and array diff library on the javascript market. No dependencies, readable diff, supports deeply nested keys. It has received github stars from engineers at Linkedin, AWS, Alibaba, Shopify, etc.
+Superdiff provides a complete and readable diff for both arrays and objects. Plus, it's battle-tested, has zero dependencies, and is super fast. It has received github stars from engineers at Linkedin, AWS, Alibaba, Shopify, Github, etc.
 
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/DoneDeal0/superdiff">Repository</a>
 
