@@ -28,16 +28,6 @@ Tiniest i18n library for React on the market (less than 1kb). Supports Typescrip
 
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/DoneDeal0/Talkr">Repository</a>
 
-
- ### FlickStats
- ![GitHub Repo stars](https://img.shields.io/github/stars/Roaring-Twenties-Studio/Flickstats)
- 
-  A free and open source software for analyzing PDF screenplays. Gain insights into your story, scenes, and characters with stunning visualizations.
-
-  > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://flickstats.roaring-twenties-studio.com">Website</a> |
-  > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/Roaring-Twenties-Studio/Flickstats">Repository</a>
-    
- 
 ### Funeral research
 ![GitHub Repo stars](https://img.shields.io/github/stars/DoneDeal0/morts-autour-de-vous)
 
