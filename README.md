@@ -28,6 +28,15 @@ Tiniest i18n library for React on the market (less than 1kb). Supports Typescrip
 
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/DoneDeal0/Talkr">Repository</a>
 
+### Codefather
+![NPM Downloads](https://img.shields.io/npm/dy/%40donedeal0%2Fcodefather?logo=npm)
+![GitHub Repo stars](https://img.shields.io/github/stars/DoneDeal0/codefather)
+
+Codefather protects your codebase by controlling who can change what. Set authorization levels, lock down files, and enforce your rules—offline via CLI or online with GitHub Actions.
+
+> <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://donedeal0.gitbook.io/codefather">Website</a> |
+> <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/DoneDeal0/codefather">Repository</a>
+
 ### Funeral research
 ![GitHub Repo stars](https://img.shields.io/github/stars/DoneDeal0/morts-autour-de-vous)
 
