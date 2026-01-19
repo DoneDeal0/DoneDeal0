@@ -1,30 +1,26 @@
-# LANGUAGES
-![GitHub](https://img.shields.io/badge/-Javascript-F9F218?logo=javascript&logoColor=black&style=flat)
-![GitHub](https://img.shields.io/badge/-Typescript-66DD24?logo=typescript&logoColor=black&style=flat)
-![GitHub](https://img.shields.io/badge/-Rust-F59B00?logo=rust&logoColor=black&style=flat)
+# OPEN SOURCE WORK
 
-<hr/>
+<img width="1166" height="388" alt="superdiff logo" src="https://github.com/user-attachments/assets/518ddef4-a3c0-43ce-a229-b3008cb2058f" />
 
-# PROJECTS
-
-![github banner 001](https://github.com/DoneDeal0/Talkr/assets/43271780/7ead2d8d-93fb-4496-a91f-856d894fa934)
-
-<hr/>
-
-### Superdiff
 ![NPM Downloads](https://img.shields.io/npm/dy/%40donedeal0%2Fsuperdiff?logo=npm)
 ![GitHub Repo stars](https://img.shields.io/github/stars/DoneDeal0/superdiff)
+![GitHub Tag](https://img.shields.io/github/v/tag/DoneDeal0/superdiff?label=latest%20release)
 
-Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance. It has received github stars from engineers at Linkedin, AWS, ByteDance, Shopify, Github, BBC, Yahoo, Alibaba, Canva, Shein, Vodafone, Meta Open Source, VueJS, CodePen, etc.
+**Superdiff** provides a rich and readable diff for both **arrays** and **objects**. It supports **stream** and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a **top-tier performance**. 
+
+It has received github stars from engineers at **Linkedin, AWS, ByteDance, Shopify, Github, BBC, Yahoo, Alibaba, Canva, Shein, Vodafone, Meta Open Source, VueJS, CodePen**, etc.
 
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://donedeal0.gitbook.io/superdiff/">Website</a> |
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/DoneDeal0/superdiff">Repository</a>
 
-### Codefather
+<hr/>
+
+<img width="1003" height="377" alt="banner" src="https://res.cloudinary.com/dmjisqsyo/image/upload/v1755025208/codfather_corrected_af9prv.png" />
+
 ![NPM Downloads](https://img.shields.io/npm/dy/%40donedeal0%2Fcodefather?logo=npm)
 ![GitHub Repo stars](https://img.shields.io/github/stars/DoneDeal0/codefather)
+![GitHub Tag](https://img.shields.io/github/v/tag/DoneDeal0/codefather?label=latest%20release)
 
-Codefather protects your codebase by controlling who can change what. Set authorization levels, lock down files, and enforce your rules—offline via CLI or online with GitHub Actions.
+**Codefather** protects your codebase by controlling who can change what. Set **authorization levels**, **lock down files**, and **enforce your rules** offline via CLI or online with GitHub Actions.
 
-> <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://donedeal0.gitbook.io/codefather">Website</a> |
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/DoneDeal0/codefather">Repository</a>
