@@ -8,7 +8,7 @@
 
 **Superdiff** provides a rich and readable diff for both **arrays** and **objects**. It supports **stream** and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a **top-tier performance**. 
 
-It has received github stars from engineers at **Linkedin, AWS, ByteDance, Shopify, Github, BBC, Yahoo, Alibaba, Canva, Shein, Vodafone, Meta Open Source, VueJS, CodePen**, etc.
+It has received github stars from engineers at **Linkedin, AWS, ByteDance, Shopify, Github, BBC, Yahoo, Alibaba, Canva, Shein, Vodafone, Meta Open Source, VueJS, NodeJS, CodePen**, etc.
 
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://donedeal0.gitbook.io/superdiff/">Website</a> |
 > <a style="color: black; text-decoration: underline; font-size: 12px;" href="https://github.com/DoneDeal0/superdiff">Repository</a>
