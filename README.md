@@ -6,7 +6,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/DoneDeal0/superdiff)
 ![GitHub Tag](https://img.shields.io/github/v/tag/DoneDeal0/superdiff?label=latest%20release)
 
-**Superdiff** provides a rich and readable diff for both **arrays** and **objects**. It supports **stream** and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a **top-tier performance**. 
+**Superdiff** provides a rich and readable diff for both **arrays**, **objects**, **text** and **coordinates**. It supports **stream** and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offers a **top-tier performance**. 
 
 It has received github stars from engineers at **Linkedin, AWS, ByteDance, Shopify, Github, BBC, Yahoo, Alibaba, Canva, Shein, Vodafone, Meta Open Source, VueJS, NodeJS, CodePen**, etc.
 
